@@ -2,7 +2,7 @@ User role and Permission Management system with Paticie package
 
 # Installation instruction
 
-- Download or `git clone https://github.com/wovosoft/laravel-permissions-example.git`
+- Download or `git clone https://github.com/KKOO727/User-role-management-Paticia.git`
 - Make .env file by running `cp .env.example .env`
 - Configure Database Credentials
 
